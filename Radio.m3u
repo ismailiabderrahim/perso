@@ -154,7 +154,7 @@ https://statslive.infomaniak.ch/playlist/guelma/24.aac/playlist.m3u
 #EXTINF:-1 tvg-ID="" tvg-name="Maroc"  tvg-logo="http://flags.fmcdn.net/data/flags/w1160/ma.png" group-title="Maroc", ***********Maroc***********
 https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/National_Anthem_of_Morocco.ogg/National_Anthem_of_Morocco.ogg.mp3
 #EXTINF:-1 tvg-ID="" tvg-name="Maroc / Arabe / Med Radio FM"  tvg-logo="https://cdn.webrad.io/images/logos/radio-co-ma/med.png" group-title="Maroc", "Med Radio FM"
-http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
+https://streamer.eagrpservices.com/audio/medradio.mp3
 #EXTINF:-1 tvg-ID="" tvg-name="Maroc / Arabe / Mars FM"  tvg-logo="https://cdn.webrad.io/images/logos/radio-co-ma/mars.png" group-title="Maroc", "Mars FM"
 http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
 #EXTINF:-1 tvg-ID="" tvg-name="Maroc / Arabe / HIT Radio FM"  tvg-logo="https://cdn.webrad.io/images/logos/radio-co-ma/hit.png" group-title="Maroc", "HIT Radio FM"
