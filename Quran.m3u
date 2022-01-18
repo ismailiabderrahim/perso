@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTIMPORT:-1 tvg-logo="https://islam.quanticapps.com/wp-content/uploads/2016/04/iTunesArtwork@2x-2-200x200.png", Coran Pro
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/Coran%20Pro.m3u
+#EXTIMPORT:-1 tvg-logo="https://islam.quanticapps.com/wp-content/uploads/2016/04/iTunesArtwork@2x-2-200x200.png", Coran Pro Duaa-Roqia
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/Duaa-Roqia-Tilawat.m3u
+#EXTIMPORT:-1 tvg-logo="http://www.mp3quran.net/img/logo2.png", mp3Quran
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/MP3Quran.m3u
+#EXTIMPORT:-1 tvg-logo="https://quranicaudio.com/public/images/background.jpg", Quranic Audio
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/QuranicAudio.m3u
