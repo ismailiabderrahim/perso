@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTIMPORT:-1 tvg-logo="http://www.mp3quran.net/img/logo2.png", Ida3at Quran karim
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/mp3Quran_Radio.m3u
 #EXTINF:-1 tvg-ID="" tvg-name="Tunisia"  tvg-logo="http://flags.fmcdn.net/data/flags/w1160/tn.png" group-title="Tunisia", ***********Tunisia***********
 https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/Humat_al-Hima.ogg/Humat_al-Hima.ogg.mp3
 #EXTINF:-1 tvg-ID="" tvg-name="Tunisia / Arabe / Mosaique FM"  tvg-logo="https://www.mosaiquefm.net/images/front/logo.png" group-title="Tunisia", "Mosaique FM"
