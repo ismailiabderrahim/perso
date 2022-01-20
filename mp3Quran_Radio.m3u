@@ -1,0 +1,223 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="الإذاعة العامة - اذاعة متنوعة لمختلف القراء"  tvg-logo="" group-title="", الإذاعة العامة - اذاعة متنوعة لمختلف القراء
+http://live.mp3quran.net:8006/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="الرقية الشرعية"  tvg-logo="" group-title="", الرقية الشرعية
+http://live.mp3quran.net:9936/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة الفتاوى"  tvg-logo="" group-title="", إذاعة الفتاوى
+http://live.mp3quran.net:8014/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="تلاوات خاشعة لمختلف القراء"  tvg-logo="" group-title="", تلاوات خاشعة لمختلف القراء
+http://live.mp3quran.net:8012/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ ماهر المعيقلي"  tvg-logo="" group-title="", إذاعة القارئ ماهر المعيقلي
+http://live.mp3quran.net:8002/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ أحمد العجمي"  tvg-logo="" group-title="", إذاعة القارئ أحمد العجمي
+http://live.mp3quran.net:8008/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالرحمن السديس"  tvg-logo="" group-title="", إذاعة القارئ عبدالرحمن السديس
+http://live.mp3quran.net:9988/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ سعود الشريم"  tvg-logo="" group-title="", إذاعة القارئ سعود الشريم
+http://live.mp3quran.net:9986/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ ياسر الدوسري"  tvg-logo="" group-title="", إذاعة القارئ ياسر الدوسري
+http://live.mp3quran.net:9984/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ مشاري العفاسي"  tvg-logo="" group-title="", إذاعة القارئ مشاري العفاسي
+http://live.mp3quran.net:8010/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالباسط عبدالصمد"  tvg-logo="" group-title="", إذاعة القارئ عبدالباسط عبدالصمد
+http://live.mp3quran.net:9980/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ ناصر القطامي"  tvg-logo="" group-title="", إذاعة القارئ ناصر القطامي
+http://live.mp3quran.net:9994/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد صديق المنشاوي"  tvg-logo="" group-title="", إذاعة القارئ محمد صديق المنشاوي
+http://live.mp3quran.net:9978/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ سعد الغامدي"  tvg-logo="" group-title="", إذاعة القارئ سعد الغامدي
+http://live.mp3quran.net:8004/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="عبدالباسط عبدالصمد - مجود"  tvg-logo="" group-title="", عبدالباسط عبدالصمد - مجود
+http://live.mp3quran.net:9974/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ خالد القحطاني"  tvg-logo="" group-title="", إذاعة القارئ خالد القحطاني
+http://live.mp3quran.net:9970/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ فارس عباد"  tvg-logo="" group-title="", إذاعة القارئ فارس عباد
+http://live.mp3quran.net:9972/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ إدريس أبكر"  tvg-logo="" group-title="", إذاعة القارئ إدريس أبكر
+http://live.mp3quran.net:9968/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ شيخ أبو بكر الشاطري"  tvg-logo="" group-title="", إذاعة القارئ شيخ أبو بكر الشاطري
+http://live.mp3quran.net:9966/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ ابراهيم الأخضر"  tvg-logo="" group-title="", إذاعة القارئ ابراهيم الأخضر
+http://live.mp3quran.net:9946/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالله خياط"  tvg-logo="" group-title="", إذاعة القارئ عبدالله خياط
+http://live.mp3quran.net:9948/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ جمعان العصيمي"  tvg-logo="" group-title="", إذاعة القارئ جمعان العصيمي
+http://live.mp3quran.net:9950/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ صابر عبدالحكم"  tvg-logo="" group-title="", إذاعة القارئ صابر عبدالحكم
+http://live.mp3quran.net:9952/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالله بصفر"  tvg-logo="" group-title="", إذاعة القارئ عبدالله بصفر
+http://live.mp3quran.net:9954/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="عبدالباسط عبدالصمد - ورش عن نافع"  tvg-logo="" group-title="", عبدالباسط عبدالصمد - ورش عن نافع
+http://live.mp3quran.net:9956/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد أيوب"  tvg-logo="" group-title="", إذاعة القارئ محمد أيوب
+http://live.mp3quran.net:9960/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمود الحصري"  tvg-logo="" group-title="", إذاعة القارئ محمود الحصري
+http://live.mp3quran.net:9958/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد جبريل"  tvg-logo="" group-title="", إذاعة القارئ محمد جبريل
+http://live.mp3quran.net:9962/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ علي جابر"  tvg-logo="" group-title="", إذاعة القارئ علي جابر
+http://live.mp3quran.net:9964/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالله الجهني"  tvg-logo="" group-title="", إذاعة القارئ عبدالله الجهني
+http://live.mp3quran.net:9944/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ احمد الحواشي"  tvg-logo="" group-title="", إذاعة القارئ احمد الحواشي
+http://live.mp3quran.net:9928/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ احمد الطرابلسي"  tvg-logo="" group-title="", إذاعة القارئ احمد الطرابلسي
+http://live.mp3quran.net:9926/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="احمد الطرابلسي(قالون عن نافع)"  tvg-logo="" group-title="", احمد الطرابلسي(قالون عن نافع)
+http://live.mp3quran.net:9924/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ أحمد صابر"  tvg-logo="" group-title="", إذاعة القارئ أحمد صابر
+http://live.mp3quran.net:9922/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ أحمد عامر"  tvg-logo="" group-title="", إذاعة القارئ أحمد عامر
+http://live.mp3quran.net:9920/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ أكرم العلاقمي"  tvg-logo="" group-title="", إذاعة القارئ أكرم العلاقمي
+http://live.mp3quran.net:9918/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ الدوكالي محمد العالم"  tvg-logo="" group-title="", إذاعة القارئ الدوكالي محمد العالم
+http://live.mp3quran.net:9916/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ الزين محمد أحمد"  tvg-logo="" group-title="", إذاعة القارئ الزين محمد أحمد
+http://live.mp3quran.net:9914/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="العيون الكوشي(ورش عن نافع)"  tvg-logo="" group-title="", العيون الكوشي(ورش عن نافع)
+http://live.mp3quran.net:9912/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="الفاتح محمد الزبير (الدوري عن ابي عمرو)"  tvg-logo="" group-title="", الفاتح محمد الزبير (الدوري عن ابي عمرو)
+http://live.mp3quran.net:9910/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="القاري ياسين (ورش عن نافع)"  tvg-logo="" group-title="", القاري ياسين (ورش عن نافع)
+http://live.mp3quran.net:9908/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ توفيق الصايغ"  tvg-logo="" group-title="", إذاعة القارئ توفيق الصايغ
+http://live.mp3quran.net:9906/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ أحمد نعينع"  tvg-logo="" group-title="", إذاعة القارئ أحمد نعينع
+http://live.mp3quran.net:9904/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="ابراهيم الدوسري(ورش عن نافع)"  tvg-logo="" group-title="", ابراهيم الدوسري(ورش عن نافع)
+http://live.mp3quran.net:9902/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ جمال شاكر عبدالله"  tvg-logo="" group-title="", إذاعة القارئ جمال شاكر عبدالله
+http://live.mp3quran.net:9900/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ حاتم فريد الواعر"  tvg-logo="" group-title="", إذاعة القارئ حاتم فريد الواعر
+http://live.mp3quran.net:9898/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ خالد المهنا"  tvg-logo="" group-title="", إذاعة القارئ خالد المهنا
+http://live.mp3quran.net:9896/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ خالد عبدالكافي"  tvg-logo="" group-title="", إذاعة القارئ خالد عبدالكافي
+http://live.mp3quran.net:9894/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ خليفة الطنيجي"  tvg-logo="" group-title="", إذاعة القارئ خليفة الطنيجي
+http://live.mp3quran.net:9892/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ زكي داغستاني"  tvg-logo="" group-title="", إذاعة القارئ زكي داغستاني
+http://live.mp3quran.net:9890/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ سهل ياسين"  tvg-logo="" group-title="", إذاعة القارئ سهل ياسين
+http://live.mp3quran.net:9888/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ سيد رمضان"  tvg-logo="" group-title="", إذاعة القارئ سيد رمضان
+http://live.mp3quran.net:9886/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ شيرزاد عبدالرحمن طاهر"  tvg-logo="" group-title="", إذاعة القارئ شيرزاد عبدالرحمن طاهر
+http://live.mp3quran.net:9884/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ صلاح البدير"  tvg-logo="" group-title="", إذاعة القارئ صلاح البدير
+http://live.mp3quran.net:9882/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ صلاح الهاشم"  tvg-logo="" group-title="", إذاعة القارئ صلاح الهاشم
+http://live.mp3quran.net:9880/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ صلاح بوخاطر"  tvg-logo="" group-title="", إذاعة القارئ صلاح بوخاطر
+http://live.mp3quran.net:9878/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ طارق عبدالغني دعوب"  tvg-logo="" group-title="", إذاعة القارئ طارق عبدالغني دعوب
+http://live.mp3quran.net:9876/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عادل الكلباني"  tvg-logo="" group-title="", إذاعة القارئ عادل الكلباني
+http://live.mp3quran.net:9874/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عادل ريان"  tvg-logo="" group-title="", إذاعة القارئ عادل ريان
+http://live.mp3quran.net:9872/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالباري الثبيتي"  tvg-logo="" group-title="", إذاعة القارئ عبدالباري الثبيتي
+http://live.mp3quran.net:9870/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالبارئ محمد"  tvg-logo="" group-title="", إذاعة القارئ عبدالبارئ محمد
+http://live.mp3quran.net:9868/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالرشيد الصوفي-السوسي عن عمرو"  tvg-logo="" group-title="", إذاعة القارئ عبدالرشيد الصوفي-السوسي عن عمرو
+http://live.mp3quran.net:9866/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالرشيد الصوفي -خلف عن حمزه"  tvg-logo="" group-title="", إذاعة القارئ عبدالرشيد الصوفي -خلف عن حمزه
+http://live.mp3quran.net:9864/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالعزيز الأحمد"  tvg-logo="" group-title="", إذاعة القارئ عبدالعزيز الأحمد
+http://live.mp3quran.net:9862/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالله الكندري"  tvg-logo="" group-title="", إذاعة القارئ عبدالله الكندري
+http://live.mp3quran.net:9860/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالله المطرود"  tvg-logo="" group-title="", إذاعة القارئ عبدالله المطرود
+http://live.mp3quran.net:9858/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالمحسن الحارثي"  tvg-logo="" group-title="", إذاعة القارئ عبدالمحسن الحارثي
+http://live.mp3quran.net:9856/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالمحسن العبيكان"  tvg-logo="" group-title="", إذاعة القارئ عبدالمحسن العبيكان
+http://live.mp3quran.net:9854/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالمحسن القاسم"  tvg-logo="" group-title="", إذاعة القارئ عبدالمحسن القاسم
+http://live.mp3quran.net:9852/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالهادي أحمد كناكري"  tvg-logo="" group-title="", إذاعة القارئ عبدالهادي أحمد كناكري
+http://live.mp3quran.net:9850/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عبدالودود حنيف"  tvg-logo="" group-title="", إذاعة القارئ عبدالودود حنيف
+http://live.mp3quran.net:9848/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ علي الحذيفي"  tvg-logo="" group-title="", إذاعة القارئ علي الحذيفي
+http://live.mp3quran.net:9844/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ علي الحذيفي -قالون عن نافع"  tvg-logo="" group-title="", إذاعة القارئ علي الحذيفي -قالون عن نافع
+http://live.mp3quran.net:9846/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ علي حجاج السويسي"  tvg-logo="" group-title="", إذاعة القارئ علي حجاج السويسي
+http://live.mp3quran.net:9842/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عماد زهير حافظ"  tvg-logo="" group-title="", إذاعة القارئ عماد زهير حافظ
+http://live.mp3quran.net:9840/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ عمر القزابري - ورش عن نافع"  tvg-logo="" group-title="", إذاعة القارئ عمر القزابري - ورش عن نافع
+http://live.mp3quran.net:9838/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ ماهر شخاشيرو"  tvg-logo="" group-title="", إذاعة القارئ ماهر شخاشيرو
+http://live.mp3quran.net:9836/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد الطبلاوي"  tvg-logo="" group-title="", إذاعة القارئ محمد الطبلاوي
+http://live.mp3quran.net:9834/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد اللحيدان"  tvg-logo="" group-title="", إذاعة القارئ محمد اللحيدان
+http://live.mp3quran.net:9832/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد رشاد الشريف"  tvg-logo="" group-title="", إذاعة القارئ محمد رشاد الشريف
+http://live.mp3quran.net:9830/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد صالح عالم شاه"  tvg-logo="" group-title="", إذاعة القارئ محمد صالح عالم شاه
+http://live.mp3quran.net:9828/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد صديق المنشاوي - مجود"  tvg-logo="" group-title="", إذاعة القارئ محمد صديق المنشاوي - مجود
+http://live.mp3quran.net:9826/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد العبدالكريم"  tvg-logo="" group-title="", إذاعة القارئ محمد العبدالكريم
+http://live.mp3quran.net:9824/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد العبدالكريم -ورش عن نافع من طريق أبي بكر الأصبهاني"  tvg-logo="" group-title="", إذاعة القارئ محمد العبدالكريم -ورش عن نافع من طريق أبي بكر الأصبهاني
+http://live.mp3quran.net:9822/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد عثمان خان"  tvg-logo="" group-title="", إذاعة القارئ محمد عثمان خان
+http://live.mp3quran.net:9820/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمود الرفاعي"  tvg-logo="" group-title="", إذاعة القارئ محمود الرفاعي
+http://live.mp3quran.net:9818/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد عبدالحكيم سعيد العبدالله - الدوري عن الكسائي"  tvg-logo="" group-title="", إذاعة القارئ محمد عبدالحكيم سعيد العبدالله - الدوري عن الكسائي
+http://live.mp3quran.net:9816/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمد عبدالحكيم سعيد العبدالله - البزي وقنبل عن ابن كثير"  tvg-logo="" group-title="", إذاعة القارئ محمد عبدالحكيم سعيد العبدالله - البزي وقنبل عن ابن كثير
+http://live.mp3quran.net:9814/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمود الشيمي - الدوري عن الكسائي"  tvg-logo="" group-title="", إذاعة القارئ محمود الشيمي - الدوري عن الكسائي
+http://live.mp3quran.net:9812/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمود علي البنا - مجود"  tvg-logo="" group-title="", إذاعة القارئ محمود علي البنا - مجود
+http://live.mp3quran.net:9810/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمود علي البنا"  tvg-logo="" group-title="", إذاعة القارئ محمود علي البنا
+http://live.mp3quran.net:9808/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمود خليل الحصري - مجود"  tvg-logo="" group-title="", إذاعة القارئ محمود خليل الحصري - مجود
+http://live.mp3quran.net:9806/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ محمود خليل الحصري - ورش عن نافع"  tvg-logo="" group-title="", إذاعة القارئ محمود خليل الحصري - ورش عن نافع
+http://live.mp3quran.net:9804/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ معيض الحارثي"  tvg-logo="" group-title="", إذاعة القارئ معيض الحارثي
+http://live.mp3quran.net:9802/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ مصطفى اسماعيل"  tvg-logo="" group-title="", إذاعة القارئ مصطفى اسماعيل
+http://live.mp3quran.net:9800/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ مصطفى اللاهوني"  tvg-logo="" group-title="", إذاعة القارئ مصطفى اللاهوني
+http://live.mp3quran.net:9798/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ مصطفى رعد العزاوي"  tvg-logo="" group-title="", إذاعة القارئ مصطفى رعد العزاوي
+http://live.mp3quran.net:9796/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ مفتاح السلطني - ابن ذكوان عن ابن عامر"  tvg-logo="" group-title="", إذاعة القارئ مفتاح السلطني - ابن ذكوان عن ابن عامر
+http://live.mp3quran.net:9794/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ مفتاح السلطني"  tvg-logo="" group-title="", إذاعة القارئ مفتاح السلطني
+http://live.mp3quran.net:9792/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ مفتاح السلطني - الدوري عن أبي عمرو"  tvg-logo="" group-title="", إذاعة القارئ مفتاح السلطني - الدوري عن أبي عمرو
+http://live.mp3quran.net:9790/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ مفتاح السلطني - الدوري عن الكسائي"  tvg-logo="" group-title="", إذاعة القارئ مفتاح السلطني - الدوري عن الكسائي
+http://live.mp3quran.net:9788/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ موسى بلال"  tvg-logo="" group-title="", إذاعة القارئ موسى بلال
+http://live.mp3quran.net:9786/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ نبيل الرفاعي"  tvg-logo="" group-title="", إذاعة القارئ نبيل الرفاعي
+http://live.mp3quran.net:9784/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ نعمة الحسان"  tvg-logo="" group-title="", إذاعة القارئ نعمة الحسان
+http://live.mp3quran.net:9782/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ هاني الرفاعي"  tvg-logo="" group-title="", إذاعة القارئ هاني الرفاعي
+http://live.mp3quran.net:9780/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ وليد النائحي - قالون عن نافع من طريق أبي نشيط"  tvg-logo="" group-title="", إذاعة القارئ وليد النائحي - قالون عن نافع من طريق أبي نشيط
+http://live.mp3quran.net:9778/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ ياسر القرشي"  tvg-logo="" group-title="", إذاعة القارئ ياسر القرشي
+http://live.mp3quran.net:9776/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ ياسر المزروعي - قراءة يعقوب الحضرمي بروايتي رويس وروح"  tvg-logo="" group-title="", إذاعة القارئ ياسر المزروعي - قراءة يعقوب الحضرمي بروايتي رويس وروح
+http://live.mp3quran.net:9774/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ يحيى حوا"  tvg-logo="" group-title="", إذاعة القارئ يحيى حوا
+http://live.mp3quran.net:9772/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ يوسف الشويعي"  tvg-logo="" group-title="", إذاعة القارئ يوسف الشويعي
+http://live.mp3quran.net:9770/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-ID="" tvg-name="إذاعة القارئ يوسف بن نوح أحمد"  tvg-logo="" group-title="", إذاعة القارئ يوسف بن نوح أحمد
+http://live.mp3quran.net:9768/;stream.nsv&type=mp3
