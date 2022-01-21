@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="\c00????30 Please wait during playlist download it could take some times as Playlists are big. Click me"  tvg-logo="https://raw.githubusercontent.com/ismailiabderrahim/perso/main/ismasoft_background.png" group-title="" ,\c9059??90 Thanks and don't forget me for duaa (Click Me)
+https://youtu.be/Lw1_nb7J4J4
+#EXTIMPORT:-1 tvg-logo="https://islam.quanticapps.com/wp-content/uploads/2016/04/iTunesArtwork@2x-2-200x200.png", Coran Pro
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/Coran%20Pro.m3u
+#EXTIMPORT:-1 tvg-logo="https://islam.quanticapps.com/wp-content/uploads/2016/04/iTunesArtwork@2x-2-200x200.png", Coran Pro Duaa-Roqia
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/Duaa-Roqia-Tilawat.m3u
+#EXTIMPORT:-1 tvg-logo="http://www.mp3quran.net/img/logo2.png", Mp3Quran
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/MP3Quran.m3u
+#EXTIMPORT:-1 tvg-logo="https://quranicaudio.com/public/images/background.jpg", Quranic Audio
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/QuranicAudio.m3u
+#EXTIMPORT:-1 tvg-logo="http://www.mp3quran.net/img/logo2.png", Radio Mp3Quran
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/mp3Quran_Radio.m3u
+#EXTIMPORT:-1 tvg-logo="http://www.mp3quran.net/img/logo2.png", Mp3Quran V2 2022
+https://raw.githubusercontent.com/ismailiabderrahim/perso/main/mp3QuranV2.m3u
